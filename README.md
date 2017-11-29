@@ -7,5 +7,7 @@
 ToDo
 
 - xtract: forma de pagamento
-- xtract: número da nf (ou qualquer símbolo único)
 - xtract: dados da empresa
+- html display
+- heroku with file upload
+-- maybe test rails 5.2 file uploader?
