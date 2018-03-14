@@ -1,3 +1,4 @@
 *.db
 *.sw*
 *.htm*
+/DadosNFCe_files

@@ -26,7 +26,7 @@ end
 nfces = DB[:nfces]
 items = DB[:items]
 
-page = Nokogiri::HTML(open("nfce.html"))
+page = Nokogiri::HTML(open("DadosNFCe.html"))
 
 nfce_data = page.css('table#tbl-container-nfce-resumida-valida > tbody > tr')[5].css('.NFCCabecalho_SubTitulo')[1].text.strip.split("\n").map { |data| data.strip }
 

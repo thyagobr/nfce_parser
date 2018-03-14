@@ -4,6 +4,8 @@
 2. Coloque o arquivo no root do script como nome "nfce.html"
 3. `ruby nfce_parser.rb`
 
+URL: http://nfce.set.rn.gov.br/portalDFE/NFCe/ConsultaNFCe.aspx
+
 ToDo
 
 - xtract: forma de pagamento
